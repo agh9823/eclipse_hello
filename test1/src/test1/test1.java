@@ -5,7 +5,11 @@ public class test1 {
 		System.out.println("Hello world");
 		System.out.println("Hello his world");
 		System.out.println("Hello her world");
+<<<<<<< HEAD
 		
+=======
+		System.out.println("Heelo she world");
+>>>>>>> refs/heads/hotfix
 	}
 	
 
